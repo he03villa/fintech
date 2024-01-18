@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.card-header label {
+  display: flex;
+}
+
+.btn {
+  margin: 0 5px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
